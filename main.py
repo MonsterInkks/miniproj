@@ -1,2 +1,3 @@
 print('l')
-print('joel greenary president')
+print('joel')
+print('fucku')
